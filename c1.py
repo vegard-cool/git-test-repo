@@ -5,4 +5,4 @@ def funcy():
 
 if __name__ == "__main__":
     s = funcy()
-    print(s)
+    print(s + "dada")
