@@ -5,4 +5,4 @@ def funcy():
 
 if __name__ == "__main__":
     s = funcy()
-    print(s*2)
+    print(s*5)
