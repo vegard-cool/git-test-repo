@@ -1,4 +1,8 @@
 a = 3
 
 def funcy():
-    return "haha"
+    return "höhö"
+
+if __name__ == "__main__":
+    s = funcy()
+    print(s)
